@@ -1,0 +1,175 @@
+Systems:
+
+* Quests Wz Normal/Evo					
+* Quests Season 5 ~ Season 6.3				
+* Custom Quests 					- Make your own quest with our unique system/script lang for Custom Quests - Up to 256 Quests)
+* WZ (GMO) Cash Shop					
+* Reset InGame						
+* Socket Items						
+* Lucky Items						
+* Auto Learn Skill					
+* Skill Tree for All Seasons				
+* Multi Warehouse					
+* Expanded Warehouse					
+* Expanded Inventory					
+* Black List (GS Firewall + GS Auto-AntiFlood)		- Prevent attackers from DDoS and Others.
+* Gens							
+* Marry							- Marry system, unique and stable, fully customized with married NPC's.
+* PCPoints						
+* Spawn Monsters InGame + Save Monsters			
+* Chaos Card						
+* Unique GM System					
+* Unique PvP System					
+* Reset							- Custom reset with LOT OF FEATURES, fully customized.
+* Reset Master						- Custom reset with LOT OF FEATURES, fully customized (For Master Characters (3rd Evo)).
+* Anti-AFK (In Game)					- Prevent long AFK in maps.
+* News							- Annoucements and news from your server.
+* Extra-Exp						
+* Auto-Exp 						- AutoExp for players AFK in maps.
+* WZ Official Helper (GMO Auto Click Bot)		
+* Custom VIP						- Accounting system for VIP, fully customized + VIPShop Bag (Command).
+* Duel							
+
+
+Events:
+
+* Battle Soccer			
+* Blood Castle			
+* Blue Event			- White rabbit event, fully customized.
+* Boss Attack			- Invasion of X monsters, fully customized.
+* Castle Siege			
+* Chaos Castle			
+* Cherry Blossom Event/System	
+* CryWolf			
+* Devil Square			
+* Double Goer (Doppel Ganger)	
+* Gens Close Map		- Battle of two factions, duprian and vanert for the control of an map, fully customized.
+* Golden Invasion 1		
+* Golden Invasion 2		
+* Green Event			- Increase the probability of drop excellent items in server.
+* Halloween			- You get an nice event for halloween with lot of fun and items, fully customized.
+* Happy Hour			- More exp and drop for your players, fully customized.
+* Hide And Seek Bot/Event	
+* Hit and Up			- Hit and up is an event make to fast level characters, from 1 to 2 or more levels by kill, fully customized.
+* Kalima			
+* Kanturu			
+* Illusion Temple		
+* Imperial Guardian		
+* Loren Deep			
+* Lucky Penny Event/System 	- exchange Coin of Luck items.
+* Moss Merchant			
+* Racer Bot/Event		
+* Rain Item			
+* Raklion			
+* Red Dragon Invasion		
+* Sky Event			- Play on the sky, the most old and nice event in mu, fully customized.
+* Summer Event			- The invasion of Fire Flame Ghost from Webzen with extra features.
+* Swamp Event			- Swap official event from Webzen with extra features(Official + Custom Event).
+* White Wizzard Invasion	
+* XMas Event			- Santa's Map with NPC's and items (Official + Custom Event).
+
+UNIQUE BOTS:
+
+* Bot Alchemist			- You can move attributes from a item to another item, fully customized.
+* Bot Buffer			- You can make your BB buff characters like Elf Guardian using any buff skill, fully customized.
+* Bot Hide And Seek 		- No need an GM for teleport and play hide and seek with your players, with this bot is done, fully customized.
+* Bot Pet 1			- Custimized PETS for players with trade features and skills, its level as an character companion, fully customized.
+* Bot Pet 2			- Same as before, BUT you can give him items or skills, its levels as an character plus evolutions and related, fully customized.
+* Bot Racer			- Make an special Race. You have start and end checkpoint, bot will stay days here, save all times in DB, when finish will give an item (with Bot Reward) to TOP X players
+* Bot Reward			- LIVE FEATURE: Give Rewards From DB to any player in game
+* Bot Store			- You can create NPCS from the tin air with store capabilities, fully customized.
+* Bot Trader			- Its an mix system, fully customized.
+* Bot VipShop (Crystal Edition)	- New Shop ingame excellent for all Servers (FULLY CUSTOM + SELL ITEMS PER DAY FEATURE!!)
+* Bot Warper			- Give him trade, he will Warp you to any point that you want.
+
+Crystal Edition:
+
+* Bot VipShop				
+* Ingame Special Shop			
+* Custom Tab (With Commands)		
+* Custom Wings				
+* Custom Items (With Custom Glow)	
+* Custom Jewels (Full Custom)		
+* Crystal Wall 				- AntiCheat Client <=> Server
+
+Titans Tech - Custom Features Server Side for Administrators:
+
+* Customized event timers - Like EventManagement.dat but for all other events.
+* Renamed Shops for easy configuration and events item bags.
+* Dedicated folders for events, shop, monsters and each config.
+* Less bandwith usage for Game Client, 1.5kb usage for each client connection.
+* Less memory usage on GameServer.
+* Titans Tech LinkServer (New App that have all WZ Programs + SCFExDB Inside - Except ChatServer)
++ 80% of less memory usage than official WZ or Other Teams Apps
+* AND over 2000 config variables so you can custom your server (basic global like configuration is by default).
+
+Titans Tech - Basic client support.
+
+* Latest Global Main with multilanguage support, spanish, english, portuguese and more.
+* Auto Update with Titans Tech Connect Server working.
+
+Extras:
+
+* New Jewels Packaging upto 30 Units:
++ Jewel of Chaos
++ Jewel of Life
++ Jewel of Creation
++ Jewel of Harmony
++ Jewel of Guardian
++ Low Refining Stone
++ High Refining Stone
+* New Ancient Items
++ 3 new Rage Fighter Ancient Sets
++ 2 new Blade Knight Ancient Sets
++ 2 new Elf Ancient Sets
++ 1 new Magic Gladiator Ancient Set
++ 2 new Dark Wizard Ancient Sets
++ 2 new Summoner Ancient Sets
++ 1 new Dark Lord Ancient Set
+* Max Stats: 65000 HOT
+* 6 Characters - fully working
+* Summoner Class - fully working (Full/Original Skill Tree)
+* 3 Classed Evaluation - BK/DW/ELF/Summoner
+* 2 Classes Evaluation - MG/DL
+* Fenrir - Red, Blue, Black, Golden combination & Pets
+* Dark Lord Pets - 100% working
+* Ancient Sets - All original (including S5 Ep4 AND S6 EP2), Set Options
+* Items upgrade up to +15 - NEW GLOW FOR +14/+15 Items
+* All item options up to +28
+* BK Blow of Destruction Combo
+* Castle Siege event - 100% working
+* Harmony System up to +13 Items
+* Raklion Hatchery Event
+* Socket System up to 5 level spheres
+* 380 level Items - Pink Options (pvp in CS)
+* Fruits System
+* Season 4 & Season 5 skills AND Season 6 EP2 skills.
+* Illusion Temple Event - Original, full featured
+* Master Skill Tree for all classes
+* Medusa Boss
+* Moss The Gambler - original.
+* Volcano Map
+* Cherry Blossom Quest - with rewards
+* Santa's Village
+* New Sets, Weapond & Shileds - Up to Season 5 Episode 4
+* New Maps' extensions & Mobs for them - Aida/Kanturu/Swamp of Calmness/Raklion
+* Loren Market Map
+* New small Wings system for Low level Characters
+* All new skill icons - Up to Season 5 Episode 4
+* Gens System - Full & original HOT
+* Gens Quest System - Full & original HOT
+* New Year Day Event MORE INFO
+* Quest System - Full & original for Season 5 Episode 4 and Season 6 Episode 2 FULL
+* Elf Buffer Npc
+* Chocolate Box - Blue, Red, Pink
+* Candy Box - Lilac, Vermillon, Deep Blue
+* Ribbon Box MORE INFO
+* Firecracker
+* Heart of Love
+* Gold Medals & Silver Medals
+* Star of Sacred Rebirth
+* GM Box
+* Ring of Warrior for level 40 and 80
+* All in Game Pets MORE INFO
+* Chaos Card MORE INFO
+* And Many More 

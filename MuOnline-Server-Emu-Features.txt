@@ -1,0 +1,159 @@
+Titans Tech - Custom Features in GAME for players.
++ Bot Pet       - Custimized PETS for players with trade features and skills, its level as an character companion, fully customized.
++ Bot Pet 2     - Same as before, BUT doesnt have items by default or skills, its levels as an character plus evolutions and related, fully customized.
++ Bot Buffer    - You can make your BB buff characters like Elf Guardian using any buff skill, fully customized.
++ Bot Alchemist - You can move attributes from a item to another item, fully customized.
++ Bot Store     - You can create NPCS from the tin air with store capabilities, fully customized.
++ Bot Trader    - Its an mix system, fully customized.
++ Bot Hide and Seek - No need an GM for teleport and play hide and seek with your players, with this bot is done, fully customized.
++ Custom Quests     - You can add custom quests to your server, fully customized.
++ Custom Vip System - Accounting system for VIP, fully customized.
++ Custom Reset System  - Custom reset with LOT OF FEATURES, fully customized.
++ Marry System         - Marry system, unique and stable, fully customized with married NPC's.
++ Gens Close Map Event - Battle of two factions, duprian and vanert for the control of an map, fully customized.
++ Blue Event           - White rabbit event, fully customized.
++ Boss Attack Event    - Invasion of X monsters, fully customized.
++ Green Event          - Lets rain some excellent from the sky's, fully customized.
++ Halloween Event      - You get an nice event for halloween with lot of fun and items, fully customized.
++ Happy Hour Event     - More exp and drop for your players, fully customized.
++ Hit and Up Event     - Hit and up is an event make to fast level characters, from 1 to 2 or more levels by kill, fully customized.
++ Sky Event            - Play on the sky, the most old and nice event in mu, fully customized.
++ Summer Attack Event  - The invasion of Fire Flame Ghost from Webzen with extra features.
++ Swamp Attack Event   - Swap official event from Webzen with extra features.
++ XMas Event           - Santa's Map with NPC's and items.
++ Lucky Penny System   - exchange Coin of Luck items.
++ Anti-AFK System      - Prevent long AFK in maps.
++ Anti-Flood System    - Prevent attackers from DDoS.
++ Auto-Exp System      - AutoExp for players AFK in maps.
++ News System          - Annoucements and news from your server.
+
+Titans Tech - Custom Features Server Side for Administrators.
+
++ Links Checker System - Auto reconnect of services for GameServer.
++ Customized event timers - Like EventManagement.dat but for all other events.
++ Renamed Shops for easy configuration and events item bags.
++ Dedicated folders for events, shop, monsters and each config.
++ Less bandwith usage for Game Client, 1.5kb usage for each client connection.
++ Less memory usage on GameServer.
++ Titans Tech Data Server, supports all features of new game clients.
+- 80% of less memory usage than official DS.
++ Titans Tech Join Server, no stuck accounts, md5 or plain password support.
+- 80% of less memory usage than official DS.
++ Titans Tech Connect Server with Gold Channel support.
+- 80% of less memory usage than official DS.
++ Titans Tech SCFExDB, its replaces EventServer and Ranking Server with other additions.
+
+AND over 2000 config variables so you can custom your server (basic global like configuration is by default).
+
+Titans Tech - Basic client support.
+
++ Latest Global Main with multilanguage support, spanish, english, portuguese and more.
++ Auto Update with Titans Tech Connect Server working.
++ No MOD, easy to hook and CLEAN.
+
+
+
+Titans Tech - Custom Main a.k.a Crystal Edition:
+
++ Latest Global Main with multilanguage support, spanish, english, portuguese and more.
++ 3D View
++ Custom Jewels
++ Custom Items (With Custom Glow)
++ Custom Wings
++ Custom VIP Shop
+
+------------------------------------------------------- MuOnline Features Added on this version -------------------------------------------------------
++ Lucky system from Season 6 Episode 2 fully working, as original.
++ Cash Shop from Season 6 Episode 2 fully working, as original, plus new additions.
++ New Mu Helper from webzen.
++ New Character "Rage Fighter" MORE INFO
+- Rage Righter evolve to Fist Master
+- Rage Righter 11 New Skills 100% Global-Like - with original & Attributes a& special effects/buffs
++ Rage Fighter 2 New Capes
++ Rage Fighter 4 New Sets 3 normal Sets & one level 380 Set
++ 2 New Maps - Kalrutan 1 and 2
++ 8 New Mobs for Kalrutan Map with special New Skills for Monsters
++ Completely New Master Skill Tree with New Master Skills MORE INFO
++ New Summoner Socket Set & 2 Sticks - Eternal Wings Set/Stick & Divine of Archangel Stick.
++ Expansion of Inventory and Warehouse
++ New Trade Feature - when trade you can right click on an item and auto-move it to trade window
++ Gens Chat System - now players that joined the gens can talk with each other in global chat (through all severs use: $message)
++ New Jewels Packaging upto 30 Units:
+- Jewel of Chaos
+- Jewel of Life
+- Jewel of Creation
+- Jewel of Harmony
+- Jewel of Guardian
+- Low Refining Stone
+- High Refining Stone
++ New Ancient Items
+- 3 new Rage Fighter Ancient Sets
+- 2 new Blade Knight Ancient Sets
+- 2 new Elf Ancient Sets
+- 1 new Magic Gladiator Ancient Set
+- 2 new Dark Wizard Ancient Sets
+- 2 new Summoner Ancient Sets
+- 1 new Dark Lord Ancient Set
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
++ Max Stats: 65000 HOT
++ 6 Characters - fully working
++ Summoner Class - fully working (Full/Original Skill Tree)
++ 3 Classed Evaluation - BK/DW/ELF/Summoner
++ 2 Classes Evaluation - MG/DL
++ Devil Square 7 & Blood Castle 8 - with Master Level
++ Fenrir - Red, Blue, Black, Golden combination & Pets
++ Dark Lord Pets - 100% working
++ Halloween event
++ Ancient Sets - All original (including S5 Ep4 AND S6 EP2), Set Options
++ Chaos Castle - with Master level
++ Items upgrade up to +15 - NEW GLOW FOR +14/+15 Items
++ All item options up to +28
++ BK Blow of Destruction Combo
++ Castle Siege event - 100% working
++ Harmony System up to +13 Items
++ Raklion Hatchery Event
++ Socket System up to 5 level spheres
++ 380 level Items - Pink Options (pvp in CS)
++ New Golden Mobs - New from S5 Ep4
++ Fruits System
++ Season 4 & Season 5 skills AND Season 6 EP2 skills.
++ Illusion Temple Event - Original, full featured
++ Master Skill Tree for all classes
++ Medusa Boss
++ Third level Wings for all Classes
++ Kantru Event
++ Crywolf Event
++ Moss The Gambler - original.
++ Duel System & Duel Arena
++ Volcano Map
++ Cherry Blossom Quest - with rewards
++ Santa's Village
++ New Sets, Weapond & Shileds - Up to Season 5 Episode 4
++ New Maps' extensions & Mobs for them - Aida/Kanturu/Swamp of Calmness/Raklion
++ Loren Market Map
++ New small Wings system for Low level Characters
++ All new skill icons - Up to Season 5 Episode 4
++ Gents System - Full & original HOT
++ Gents Quest System - Full & original HOT
++ Imperial Guardian Fort Event - Full & original HOT
++ Double Goer (Doppleganger) Event - Full & original HOT
++ Kalima 1-7
++ White Wizard Event
++ Loren Deep Event MORE INFO
++ New Year Day Event MORE INFO
++ Quest System - Full & original for Season 5 Episode 4 and Season 6 Episode 2 FULL
++ Elf Buffer Npc
++ Red Dragon Invasion
++ Battle Soccer
++ Chocolate Box - Blue, Red, Pink
++ Candy Box - Lilac, Vermillon, Deep Blue
++ Ribbon Box MORE INFO
++ Firecracker
++ Heart of Love
++ Gold Medals & Silver Medals
++ Star of Sacred Rebirth
++ GM Box
++ Ring of Warrior for level 40 and 80
++ All in Game Pets MORE INFO
++ Chaos Card MORE INFO
++ And Many More 
